@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIII\bin\Debug\net7.0\DateOnlyIII.exe
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIII\bin\Debug\net7.0\DateOnlyIII.deps.json
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIII\bin\Debug\net7.0\DateOnlyIII.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIII\bin\Debug\net7.0\DateOnlyIII.dll
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIII\bin\Debug\net7.0\DateOnlyIII.pdb
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIII\obj\Debug\net7.0\DateOnlyIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIII\obj\Debug\net7.0\DateOnlyIII.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIII\obj\Debug\net7.0\DateOnlyIII.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIII\obj\Debug\net7.0\DateOnlyIII.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIII\obj\Debug\net7.0\DateOnlyIII.dll
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIII\obj\Debug\net7.0\refint\DateOnlyIII.dll
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIII\obj\Debug\net7.0\DateOnlyIII.pdb
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIII\obj\Debug\net7.0\DateOnlyIII.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIII\obj\Debug\net7.0\ref\DateOnlyIII.dll

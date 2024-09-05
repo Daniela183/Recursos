@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\cursoC#\\Recursos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63FE0A02-3658-4CAB-B49F-3004EC0595A3}|DateOnlyVI\\DateOnlyVI.csproj|c:\\users\\danie\\desktop\\cursoc#\\recursos\\dateonlyvi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FE0A02-3658-4CAB-B49F-3004EC0595A3}|DateOnlyVI\\DateOnlyVI.csproj|solutionrelative:dateonlyvi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD6DCA5-B319-4C78-A731-253286F8A34A}|DateOnlyV\\DateOnlyV.csproj|c:\\users\\danie\\desktop\\cursoc#\\recursos\\dateonlyv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD6DCA5-B319-4C78-A731-253286F8A34A}|DateOnlyV\\DateOnlyV.csproj|solutionrelative:dateonlyv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB450D6-790F-4DF7-99BD-6D4748756847}|DateOnlyIV\\DateOnlyIV.csproj|c:\\users\\danie\\desktop\\cursoc#\\recursos\\dateonlyiv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB450D6-790F-4DF7-99BD-6D4748756847}|DateOnlyIV\\DateOnlyIV.csproj|solutionrelative:dateonlyiv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5180BB3-4829-4B03-AAF6-4F53C6DD4368}|DateOnlyIII\\DateOnlyIII.csproj|c:\\users\\danie\\desktop\\cursoc#\\recursos\\dateonlyiii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5180BB3-4829-4B03-AAF6-4F53C6DD4368}|DateOnlyIII\\DateOnlyIII.csproj|solutionrelative:dateonlyiii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833A2497-3BE4-4E92-8369-334F506CF096}|DateOnlyII\\DateOnlyII.csproj|c:\\users\\danie\\desktop\\cursoc#\\recursos\\dateonlyii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833A2497-3BE4-4E92-8369-334F506CF096}|DateOnlyII\\DateOnlyII.csproj|solutionrelative:dateonlyii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D94537C-7EB5-4F51-9F67-8FB6E557D8B9}|DateOnlyI\\DateOnlyI.csproj|c:\\users\\danie\\desktop\\cursoc#\\recursos\\dateonlyi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D94537C-7EB5-4F51-9F67-8FB6E557D8B9}|DateOnlyI\\DateOnlyI.csproj|solutionrelative:dateonlyi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Recursos\\DateOnlyVI\\Program.cs",
+              "RelativeDocumentMoniker": "DateOnlyVI\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Recursos\\DateOnlyVI\\Program.cs",
+              "RelativeToolTip": "DateOnlyVI\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAvwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:18:07.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Recursos\\DateOnlyV\\Program.cs",
+              "RelativeDocumentMoniker": "DateOnlyV\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Recursos\\DateOnlyV\\Program.cs",
+              "RelativeToolTip": "DateOnlyV\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:17:56.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Recursos\\DateOnlyIV\\Program.cs",
+              "RelativeDocumentMoniker": "DateOnlyIV\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Recursos\\DateOnlyIV\\Program.cs",
+              "RelativeToolTip": "DateOnlyIV\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:17:15.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Recursos\\DateOnlyIII\\Program.cs",
+              "RelativeDocumentMoniker": "DateOnlyIII\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Recursos\\DateOnlyIII\\Program.cs",
+              "RelativeToolTip": "DateOnlyIII\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:14:43.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Recursos\\DateOnlyII\\Program.cs",
+              "RelativeDocumentMoniker": "DateOnlyII\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Recursos\\DateOnlyII\\Program.cs",
+              "RelativeToolTip": "DateOnlyII\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:14:21.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Recursos\\DateOnlyI\\Program.cs",
+              "RelativeDocumentMoniker": "DateOnlyI\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Recursos\\DateOnlyI\\Program.cs",
+              "RelativeToolTip": "DateOnlyI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:10:09.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\cursoC#\\Recursos\\TimeOnly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EBE69F-6A5A-47C2-B7BB-8705E06E489B}|TimeOnlyIII\\TimeOnlyIII.csproj|c:\\users\\danie\\desktop\\cursoc#\\recursos\\timeonly\\timeonlyiii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1EBE69F-6A5A-47C2-B7BB-8705E06E489B}|TimeOnlyIII\\TimeOnlyIII.csproj|solutionrelative:timeonlyiii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDDD201-C9F1-49A7-8792-728D9FC8DE5B}|TimeOnlyII\\TimeOnlyII.csproj|c:\\users\\danie\\desktop\\cursoc#\\recursos\\timeonly\\timeonlyii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDDD201-C9F1-49A7-8792-728D9FC8DE5B}|TimeOnlyII\\TimeOnlyII.csproj|solutionrelative:timeonlyii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148DD24D-C135-4554-8304-CC96074B4E34}|TimeOnlyIV\\TimeOnlyIV.csproj|c:\\users\\danie\\desktop\\cursoc#\\recursos\\timeonly\\timeonlyiv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148DD24D-C135-4554-8304-CC96074B4E34}|TimeOnlyIV\\TimeOnlyIV.csproj|solutionrelative:timeonlyiv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E831F2B-D029-4910-A03F-EA35F159F006}|TimeOnly\\TimeOnly.csproj|c:\\users\\danie\\desktop\\cursoc#\\recursos\\timeonly\\timeonly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E831F2B-D029-4910-A03F-EA35F159F006}|TimeOnly\\TimeOnly.csproj|solutionrelative:timeonly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Recursos\\TimeOnly\\TimeOnlyIV\\Program.cs",
+              "RelativeDocumentMoniker": "TimeOnlyIV\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Recursos\\TimeOnly\\TimeOnlyIV\\Program.cs",
+              "RelativeToolTip": "TimeOnlyIV\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:48:51.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Recursos\\TimeOnly\\TimeOnlyIII\\Program.cs",
+              "RelativeDocumentMoniker": "TimeOnlyIII\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Recursos\\TimeOnly\\TimeOnlyIII\\Program.cs",
+              "RelativeToolTip": "TimeOnlyIII\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:48:25.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Recursos\\TimeOnly\\TimeOnlyII\\Program.cs",
+              "RelativeDocumentMoniker": "TimeOnlyII\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Recursos\\TimeOnly\\TimeOnlyII\\Program.cs",
+              "RelativeToolTip": "TimeOnlyII\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:48:06.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Recursos\\TimeOnly\\TimeOnly\\Program.cs",
+              "RelativeDocumentMoniker": "TimeOnly\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Recursos\\TimeOnly\\TimeOnly\\Program.cs",
+              "RelativeToolTip": "TimeOnly\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAvwCwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:41:50.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

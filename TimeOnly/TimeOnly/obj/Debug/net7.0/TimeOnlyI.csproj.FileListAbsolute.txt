@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\Recursos\TimeOnly\TimeOnly\bin\Debug\net7.0\TimeOnlyI.exe
+C:\Users\danie\Desktop\cursoC#\Recursos\TimeOnly\TimeOnly\bin\Debug\net7.0\TimeOnlyI.deps.json
+C:\Users\danie\Desktop\cursoC#\Recursos\TimeOnly\TimeOnly\bin\Debug\net7.0\TimeOnlyI.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\Recursos\TimeOnly\TimeOnly\bin\Debug\net7.0\TimeOnlyI.dll
+C:\Users\danie\Desktop\cursoC#\Recursos\TimeOnly\TimeOnly\bin\Debug\net7.0\TimeOnlyI.pdb
+C:\Users\danie\Desktop\cursoC#\Recursos\TimeOnly\TimeOnly\obj\Debug\net7.0\TimeOnlyI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\Recursos\TimeOnly\TimeOnly\obj\Debug\net7.0\TimeOnlyI.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\Recursos\TimeOnly\TimeOnly\obj\Debug\net7.0\TimeOnlyI.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\Recursos\TimeOnly\TimeOnly\obj\Debug\net7.0\TimeOnlyI.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\Recursos\TimeOnly\TimeOnly\obj\Debug\net7.0\TimeOnlyI.dll
+C:\Users\danie\Desktop\cursoC#\Recursos\TimeOnly\TimeOnly\obj\Debug\net7.0\refint\TimeOnlyI.dll
+C:\Users\danie\Desktop\cursoC#\Recursos\TimeOnly\TimeOnly\obj\Debug\net7.0\TimeOnlyI.pdb
+C:\Users\danie\Desktop\cursoC#\Recursos\TimeOnly\TimeOnly\obj\Debug\net7.0\TimeOnlyI.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\Recursos\TimeOnly\TimeOnly\obj\Debug\net7.0\ref\TimeOnlyI.dll

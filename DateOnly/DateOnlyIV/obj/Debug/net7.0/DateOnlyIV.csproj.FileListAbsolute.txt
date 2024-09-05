@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIV\bin\Debug\net7.0\DateOnlyIV.exe
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIV\bin\Debug\net7.0\DateOnlyIV.deps.json
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIV\bin\Debug\net7.0\DateOnlyIV.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIV\bin\Debug\net7.0\DateOnlyIV.dll
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIV\bin\Debug\net7.0\DateOnlyIV.pdb
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIV\obj\Debug\net7.0\DateOnlyIV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIV\obj\Debug\net7.0\DateOnlyIV.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIV\obj\Debug\net7.0\DateOnlyIV.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIV\obj\Debug\net7.0\DateOnlyIV.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIV\obj\Debug\net7.0\DateOnlyIV.dll
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIV\obj\Debug\net7.0\refint\DateOnlyIV.dll
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIV\obj\Debug\net7.0\DateOnlyIV.pdb
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIV\obj\Debug\net7.0\DateOnlyIV.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyIV\obj\Debug\net7.0\ref\DateOnlyIV.dll

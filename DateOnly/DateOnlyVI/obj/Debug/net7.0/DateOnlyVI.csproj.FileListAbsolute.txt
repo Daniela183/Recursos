@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyVI\bin\Debug\net7.0\DateOnlyVI.exe
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyVI\bin\Debug\net7.0\DateOnlyVI.deps.json
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyVI\bin\Debug\net7.0\DateOnlyVI.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyVI\bin\Debug\net7.0\DateOnlyVI.dll
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyVI\bin\Debug\net7.0\DateOnlyVI.pdb
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyVI\obj\Debug\net7.0\DateOnlyVI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyVI\obj\Debug\net7.0\DateOnlyVI.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyVI\obj\Debug\net7.0\DateOnlyVI.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyVI\obj\Debug\net7.0\DateOnlyVI.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyVI\obj\Debug\net7.0\DateOnlyVI.dll
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyVI\obj\Debug\net7.0\refint\DateOnlyVI.dll
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyVI\obj\Debug\net7.0\DateOnlyVI.pdb
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyVI\obj\Debug\net7.0\DateOnlyVI.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\Recursos\DateOnlyVI\obj\Debug\net7.0\ref\DateOnlyVI.dll
